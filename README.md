@@ -32,9 +32,9 @@
 Project ini terbuka dan tidak ada batasan untuk para developer , anda bisa membuat script , bot , software , game dll . Ingat project ini masih Indev / pengembangan , jadi mohon maaf jika masih ada eror , bug & glitch , kami akan terus mengembangkan project ini jika kedepannya banyak yang suka / minat / tertarik dengan project ini . 
 Anda bisa join discord kami 
 https://discord.gg/pXENnm3s
-Saya harap project ini bisa berguna :)
+.Saya harap project ini bisa berguna :)
 
-Lisensi
+## Lisensi
 
 MIT License
 
