@@ -1,0 +1,1 @@
+execctx [admin] { mapenv "secure-core" fallbackto :/usr/bin/altinit }

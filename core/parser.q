@@ -1,0 +1,3 @@
+# QueLang Parser Configuration
+keyword_exec = "keyla"
+...

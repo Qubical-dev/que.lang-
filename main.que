@@ -1,0 +1,3 @@
+# Entry point for que.lang OS
+run system.q
+run ai-engine.q

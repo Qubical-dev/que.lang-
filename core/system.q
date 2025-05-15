@@ -1,0 +1,3 @@
+# System logic handler
+module: syscore
+def init(): ...
