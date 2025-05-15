@@ -20,12 +20,12 @@
 
 3. Build sistem:
 
-./tools/qbuild.sh
+   ./tools/qbuild.sh
 
 
 4. Jalankan script QueLang:
 
-./tools/qrun.sh samples/hello.ql
+   ./tools/qrun.sh samples/hello.ql
 
 ## Catatan
 
